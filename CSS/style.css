@@ -1,0 +1,694 @@
+.flex {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.css2 {
+  width:10%;
+  margin: 0px 0px 0px 30px;
+}
+
+.style {
+  margin: 10px 0px 0px auto;
+  color: #808080;
+}
+
+.item_title {
+  color: #808080;
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 20px;
+}
+
+.item_title2 {
+  color: #808080;
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 20px;
+}
+
+.item_title3 {
+  color: #808080;
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 20px;
+}
+
+.item_title4 {
+  color: #808080;
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 20px;
+}
+
+.item_title5 {
+  color: #808080;
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 20px;
+}
+
+.item_title6 {
+  color: #808080;
+  text-decoration: none;
+  margin: 0px 50px 0px 20px;
+  font-size: 20px;
+}
+
+.css3 {
+  margin: 0 0 0 auto;
+  display: block;
+  width: 60%;
+}
+
+.relative {
+  position: relative;
+  margin-bottom: 150px;
+}
+
+.comment {
+  font-size: 400%;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  font-family: "Comic Sans MS" ;
+  color: #993366;
+}
+
+.comment2 {
+  font-size: 200%;
+  font-weight: 600;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  font-family: "MS Pゴシック" ;
+  color: #993366;
+}
+
+.comment3 {
+  font-size: 125%;
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  font-family: "MS Pゴシック" ;
+  color: #808080;
+}
+
+.color {
+  color: #66CCFF;
+}
+
+.color2 {
+  color: #66CCFF;
+}
+
+.relative2 {
+  position: relative;
+  margin-bottom: 250px;
+}
+
+.comment4 {
+  font-family: "Comic Sans MS" ;
+  color: #993366;
+  position: absolute;
+  left: 25%;
+  padding: 0px 0px 10px 0px;
+}
+
+.comment5 {
+  font-size: 200%;
+  font-weight: 600;
+  font-family: "MS Pゴシック" ;
+  color: #808080;
+  position: absolute;
+  left: 25%;
+  padding: 10px 0px 10px 0px;
+}
+
+.relative3 {
+  position: relative;
+  height: 500px;
+}
+
+.flex9 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 10px;
+  border-bottom: 2px solid gray;
+  padding-bottom: 5px;
+}
+
+.flex3 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 30px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+}
+
+.flex4 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 100px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+}
+
+.flex5 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 170px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+}
+
+.flex6 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 240px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+}
+
+.flex7 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 310px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+}
+
+.flex8 {
+  width: 1000px;
+  display: flex;
+  position: absolute;
+  left: 25%;
+  top: 420px;
+  border-bottom: 2px solid gray;
+  padding-bottom: 5px;
+}
+
+.comment6 {
+  font-size: 150%;
+  font-weight: 500;
+  font-family: "Century Gothic" ;
+  color: #808080;
+  padding: 0px 50px 0px 0px ;
+}
+
+.comment7 {
+  font-size: 150%;
+  font-family: "Century Gothic" ;
+  background-color: #993366;
+  color: #FFFFFF;
+  border-radius: 30px;
+  padding: 0px 20px 0px 20px ;
+}
+
+.comment8 {
+  font-size: 150%;
+  font-weight: 500;
+  font-family: "Century Gothic" ;
+  color: #808080;
+  padding: 0px 0px 0px 50px ;
+}
+
+.relative4 {
+  height: 500px;
+  width: 1800px;
+  background-color: #EEEEEE;
+  position: relative;
+}
+
+.css4 {
+  position: absolute;
+  margin: 8% 0px 0px 55%;
+  display: block;
+  width: 25%;
+}
+
+.comment9 {
+  position: absolute;
+  font-family: "Comic Sans MS" ;
+  color: #993366;
+  top:3%;
+  left:50%;
+}
+
+.comment10 {
+  position: absolute;
+  font-family: "Century Gothic" ;
+  color: #444444;
+  top:6%;
+  left:41%;
+  font-size: 200%;
+  font-weight: 600;
+}
+
+.comment11 {
+  position: absolute;
+  top:23%;
+  left:15%;
+  font-size: 140%;
+  font-weight: 500;
+  color: #808080;
+  line-height:40px;
+}
+
+.comment12 {
+  position: absolute;
+  top:50%;
+  left:15%;
+  font-size: 140%;
+  font-weight: 500;
+  color: #808080;
+  line-height:40px;
+}
+
+.space {
+  height: 100px;
+}
+
+.relative5 {
+  position: relative;
+  height: 125px;
+}
+
+.comment13 {
+  font-family: "Comic Sans MS" ;
+  color: #993366;
+  font-size: 120%;
+  position: absolute;
+  left:15%;
+}
+
+.comment14 {
+  color: #808080;
+  font-size: 180%;
+  font-weight: 600;
+  position: absolute;
+  top:25%;
+  left:15%;
+}
+
+.relative6 {
+  position: relative;
+  height: 600px;
+}
+
+.grid {
+  display: grid;
+  grid-template-rows: 250px 250px;
+  grid-template-columns: 1fr 1fr;
+  width:70%;
+  position: absolute;
+  left:15%;
+}
+
+.box1 {
+  grid-column: 1/1;
+  grid-row: 1/3;
+  background: #CC0066;
+}
+
+.box2 {
+  grid-column: 2/2;
+  grid-row: 1/1;
+  background: #993366;
+}
+
+.box3 {
+  grid-column: 2/2;
+  grid-row: 2/2;
+  background: #CC99CC;
+}
+
+.css5 {
+  width: 15%;
+  position: absolute;
+  left:18%;
+  top:5%;
+}
+
+.comment15 {
+  position: absolute;
+  left:22%;
+  top:50%;
+  color: #FFFFFF;
+  font-size: 150%;
+  font-weight: 600;
+}
+
+.comment16 {
+  position: absolute;
+  left:10%;
+  top:65%;
+  color: #FFFFFF;
+  font-size: 120%;
+  font-weight: 500;
+  line-height:30px;
+}
+
+.css6 {
+  width: 15%;
+  position: absolute;
+  left:52%;
+  top:4%;
+}
+
+.comment17 {
+  position: absolute;
+  left:68%;
+  top:8%;
+  color: #FFFFFF;
+  font-size: 150%;
+  font-weight: 600;
+}
+
+.comment18 {
+  position: absolute;
+  left:68%;
+  top:17%;
+  color: #FFFFFF;
+  font-size: 110%;
+  font-weight: 500;
+  line-height:30px;
+}
+
+.css7 {
+  width: 15%;
+  position: absolute;
+  left:52%;
+  top:55%;
+}
+
+.comment19 {
+  position: absolute;
+  left:68%;
+  top:60%;
+  color: #FFFFFF;
+  font-size: 150%;
+  font-weight: 600;
+}
+
+.comment20 {
+  position: absolute;
+  left:68%;
+  top:69%;
+  color: #FFFFFF;
+  font-size: 110%;
+  font-weight: 500;
+  line-height:30px;
+}
+
+.relative7 {
+  height: 700px;
+  width: 1800px;
+  background-color: #EEEEEE;
+  position: relative;
+
+}
+
+.comment21 {
+  font-family: "Comic Sans MS" ;
+  color: #993366;
+  font-size: 120%;
+  position: absolute;
+  left:15%;
+}
+
+.comment22 {
+  color: #808080;
+  font-size: 180%;
+  font-weight: 600;
+  position: absolute;
+  top:5%;
+  left:15%;
+}
+
+.flex10 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.practice__card {
+  position: absolute;
+  width: 20%;
+  top: 20%;
+  left: 15%;
+  background-color: #FFFFFF;
+  border-radius: 30px;
+}
+
+.practice__card2 {
+  position: absolute;
+  width: 20%;
+  top:20%;
+  left:40%;
+  background-color: #FFFFFF;
+  border-radius: 30px;
+}
+
+.practice__card3 {
+  position: absolute;
+  width: 20%;
+  top:20%;
+  left:65%;
+  background-color: #FFFFFF;
+  border-radius: 30px;
+}
+
+.card__img img {
+  width: 100%;
+}
+
+.card__content {
+}
+
+.card__img {
+  border-radius: 30px;
+}
+
+.about_img {
+  margin-top: -25%;
+}
+
+
+.comment23 {
+  margin-bottom: 15px;
+  display: inline-block;
+  font-size: 130%;
+  text-align: center;
+  color:#808080;
+  padding:10px 0px 0px 20px;
+  line-height:30px;
+}
+
+.comment27 {
+  background-color: #993366;
+  color: #FFFFFF;
+  font-size:150%;
+  width:75px;
+  padding:15px;
+  text-align: center;
+  z-index:3;
+}
+
+.card__content-tag {
+  font-size: 110%;
+  text-align: center;
+}
+
+.comment24 {
+  display: inline-block;
+  padding:0px 50px 0px 0px;
+  color:#808080;
+}
+
+.comment25 {
+  display: inline-block;
+  color:#808080;
+}
+.comment26 {
+  position: absolute;
+  top:85%;
+  left:43%;
+  width: 230px;
+  height: 20px;
+  background: #FFFFFF;
+  border-radius: 50px;
+  font-size: 140%;
+  text-align: center;
+  text-decoration: none;
+  padding:20px 0px 20px 0px;
+  color:#993366;
+  border: 2px solid;
+  border-color:#993366;
+}
+
+.relative8 {
+  position: relative;
+  height: 800px;
+  width: 1800px;
+}
+
+.comment28 {
+  position: absolute;
+  top:10%;
+  left:22%;
+  font-family: "Comic Sans MS" ;
+  color: #993366;
+  font-size:120%;
+}
+
+.comment29 {
+  position: absolute;
+  top:13%;
+  left:22%;
+  font-family: "MS Pゴシック" ;
+  color: #444444;
+  font-size:200%;
+  font-weight: 600;
+}
+
+.Placement {
+  position: absolute;
+  top:25%;
+  left:22%;
+  line-height:75px;
+}
+
+.width1 {
+  background: #EEEEEE;
+  color:#777777;
+  font-weight: 600;
+  width:300px;
+  font-size:120%;
+  padding:0px 0px 0px 20px;
+}
+
+.width2 {
+  width:700px;
+  paddint:20px;
+  font-size:120%;
+  color:#777777;
+  padding:0px 0px 0px 20px;
+  font-weight: 600;
+}
+
+.relative9 {
+  position: relative;
+  height: 425px;
+  width: 1800px;
+}
+
+.flex11 {
+  display: flex;
+}
+
+.about_img2 {
+  width:100%;
+}
+
+.comment30 {
+  position: absolute;
+  top:30%;
+  left:22%;
+  color:#FFFFFF;
+  font-size:200%;
+  font-weight: 600;
+}
+
+.about_img3 {
+  width:100%;
+}
+
+.comment31 {
+  position: absolute;
+  top:30%;
+  left:67%;
+  color:#FFFFFF;
+  font-size:200%;
+  font-weight: 600;
+}
+
+.relative10 {
+  position: relative;
+  height: 400px;
+  width: 1800px;
+}
+
+.comment32 {
+  position: absolute;
+  left:36%;
+  font-size:150%;
+  font-weight: 600;
+  color:#666666;
+}
+
+.v_line_fix {
+  position: absolute;
+  left:47%;
+  top:22%;
+  margin-left: 50px;
+  width: 3px;
+  height: 50px;
+  background-color: #CC0066;
+}
+
+.download__btn {
+  position: absolute;
+  width: 350px;
+  height: 40px;
+  left:40%;
+  top:45%;
+  text-align: center;
+  text-decoration: none;
+  padding: 40px 0px 20px 0px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  background-color: #CC0066;
+  color: #FFFFFF;
+  background: linear-gradient(90deg,#FF3399,#CC0066);
+  box-shadow: 0px 10px #663366;
+}
+
+.download__btn::before {
+  content: "";
+  position: absolute;
+  left:10%;
+  top:32%;
+  right: 15px;
+  background: url(../img/147563.svg) no-repeat;
+  background-size: cover;
+  width: 42px;
+  height: 30px;
+}
+
+.relative11 {
+  position: relative;
+  height: 70px;
+  width: 1800px;
+  background-color: #EEEEEE;
+}
+
+.comment33 {
+  position: absolute;
+  top:15%;
+  left:40%;
+  color:#666666;
+  font-size: 18px;
+}
