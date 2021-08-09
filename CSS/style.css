@@ -1,72 +1,72 @@
-.flex {
+.flex_title {
   display: flex;
   margin-bottom: 50px;
 }
 
-.css2 {
+.about_img_titile {
   width:10%;
   margin: 0px 0px 0px 30px;
 }
 
-.style {
+.style_title {
   margin: 10px 0px 0px auto;
   color: #808080;
 }
 
-.item_title {
+.item_title_News {
   color: #808080;
   text-decoration: none;
   margin: 0px 20px;
   font-size: 20px;
 }
 
-.item_title2 {
+.item_title_About {
   color: #808080;
   text-decoration: none;
   margin: 0px 20px;
   font-size: 20px;
 }
 
-.item_title3 {
+.item_title_Service {
   color: #808080;
   text-decoration: none;
   margin: 0px 20px;
   font-size: 20px;
 }
 
-.item_title4 {
+.item_title_Blog {
   color: #808080;
   text-decoration: none;
   margin: 0px 20px;
   font-size: 20px;
 }
 
-.item_title5 {
+.item_title_Company {
   color: #808080;
   text-decoration: none;
   margin: 0px 20px;
   font-size: 20px;
 }
 
-.item_title6 {
+.item_title_Contact {
   color: #808080;
   text-decoration: none;
   margin: 0px 50px 0px 20px;
   font-size: 20px;
 }
 
-.css3 {
+.relative_primary {
+  position: relative;
+  margin-bottom: 150px;
+}
+
+.about_img_primary {
   margin: 0 0 0 auto;
   display: block;
   width: 60%;
 }
 
-.relative {
-  position: relative;
-  margin-bottom: 150px;
-}
-
-.comment {
+.comment_primary {
   font-size: 400%;
   position: absolute;
   top: 10%;
@@ -75,7 +75,7 @@
   color: #993366;
 }
 
-.comment2 {
+.comment_primary2 {
   font-size: 200%;
   font-weight: 600;
   position: absolute;
@@ -85,7 +85,7 @@
   color: #993366;
 }
 
-.comment3 {
+.comment_primary3 {
   font-size: 125%;
   position: absolute;
   top: 60%;
@@ -94,20 +94,20 @@
   color: #808080;
 }
 
-.color {
+.comment_primary_color {
   color: #66CCFF;
 }
 
-.color2 {
+.comment_primary2_color {
   color: #66CCFF;
 }
 
-.relative2 {
+.relative_secondary {
   position: relative;
   margin-bottom: 250px;
 }
 
-.comment4 {
+.comment_secondary {
   font-family: "Comic Sans MS" ;
   color: #993366;
   position: absolute;
@@ -115,7 +115,7 @@
   padding: 0px 0px 10px 0px;
 }
 
-.comment5 {
+.comment_secondary2 {
   font-size: 200%;
   font-weight: 600;
   font-family: "MS Pゴシック" ;
@@ -125,12 +125,12 @@
   padding: 10px 0px 10px 0px;
 }
 
-.relative3 {
+.relative_list {
   position: relative;
   height: 500px;
 }
 
-.flex9 {
+.flex_list {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -140,7 +140,7 @@
   padding-bottom: 5px;
 }
 
-.flex3 {
+.flex_menu {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -150,7 +150,7 @@
   padding-bottom: 5px;
 }
 
-.flex4 {
+.flex_menu_first {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -160,7 +160,7 @@
   padding-bottom: 5px;
 }
 
-.flex5 {
+.flex_menu_second {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -170,7 +170,7 @@
   padding-bottom: 5px;
 }
 
-.flex6 {
+.flex_menu_third {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -180,7 +180,7 @@
   padding-bottom: 5px;
 }
 
-.flex7 {
+.flex_menu_fourth {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -190,7 +190,7 @@
   padding-bottom: 5px;
 }
 
-.flex8 {
+.flex_menu_fifth {
   width: 1000px;
   display: flex;
   position: absolute;
@@ -200,7 +200,7 @@
   padding-bottom: 5px;
 }
 
-.comment6 {
+.comment_menu_date {
   font-size: 150%;
   font-weight: 500;
   font-family: "Century Gothic" ;
@@ -208,7 +208,7 @@
   padding: 0px 50px 0px 0px ;
 }
 
-.comment7 {
+.comment_menu_news {
   font-size: 150%;
   font-family: "Century Gothic" ;
   background-color: #993366;
@@ -217,7 +217,7 @@
   padding: 0px 20px 0px 20px ;
 }
 
-.comment8 {
+.comment_munu_service {
   font-size: 150%;
   font-weight: 500;
   font-family: "Century Gothic" ;
@@ -225,21 +225,21 @@
   padding: 0px 0px 0px 50px ;
 }
 
-.relative4 {
+.relative_About {
   height: 500px;
   width: 1800px;
   background-color: #EEEEEE;
   position: relative;
 }
 
-.css4 {
+.about_img_About {
   position: absolute;
   margin: 8% 0px 0px 55%;
   display: block;
   width: 25%;
 }
 
-.comment9 {
+.comment_About_title {
   position: absolute;
   font-family: "Comic Sans MS" ;
   color: #993366;
@@ -247,7 +247,7 @@
   left:50%;
 }
 
-.comment10 {
+.comment_About_primary {
   position: absolute;
   font-family: "Century Gothic" ;
   color: #444444;
@@ -257,7 +257,7 @@
   font-weight: 600;
 }
 
-.comment11 {
+.comment_About_main {
   position: absolute;
   top:23%;
   left:15%;
@@ -267,7 +267,7 @@
   line-height:40px;
 }
 
-.comment12 {
+.comment_About_secondary {
   position: absolute;
   top:50%;
   left:15%;
@@ -281,12 +281,12 @@
   height: 100px;
 }
 
-.relative5 {
+.relative_Sevice {
   position: relative;
   height: 125px;
 }
 
-.comment13 {
+.comment_service_title {
   font-family: "Comic Sans MS" ;
   color: #993366;
   font-size: 120%;
@@ -294,7 +294,7 @@
   left:15%;
 }
 
-.comment14 {
+.comment_service_primary {
   color: #808080;
   font-size: 180%;
   font-weight: 600;
@@ -303,7 +303,7 @@
   left:15%;
 }
 
-.relative6 {
+.relative_show {
   position: relative;
   height: 600px;
 }
@@ -335,14 +335,14 @@
   background: #CC99CC;
 }
 
-.css5 {
+.About_img_svg {
   width: 15%;
   position: absolute;
   left:18%;
   top:5%;
 }
 
-.comment15 {
+.comment_show_title {
   position: absolute;
   left:22%;
   top:50%;
@@ -351,7 +351,7 @@
   font-weight: 600;
 }
 
-.comment16 {
+.comment_show_primary {
   position: absolute;
   left:10%;
   top:65%;
@@ -361,14 +361,14 @@
   line-height:30px;
 }
 
-.css6 {
+.About_img_svg_rightover {
   width: 15%;
   position: absolute;
   left:52%;
   top:4%;
 }
 
-.comment17 {
+.comment_show_title_rightover {
   position: absolute;
   left:68%;
   top:8%;
@@ -377,7 +377,7 @@
   font-weight: 600;
 }
 
-.comment18 {
+.comment_show_primary_rightover {
   position: absolute;
   left:68%;
   top:17%;
@@ -387,14 +387,14 @@
   line-height:30px;
 }
 
-.css7 {
+.About_img_svg_rightunder {
   width: 15%;
   position: absolute;
   left:52%;
   top:55%;
 }
 
-.comment19 {
+.comment_show_title_rightunder {
   position: absolute;
   left:68%;
   top:60%;
@@ -403,7 +403,7 @@
   font-weight: 600;
 }
 
-.comment20 {
+.comment_show_primary_rightunder {
   position: absolute;
   left:68%;
   top:69%;
@@ -413,7 +413,7 @@
   line-height:30px;
 }
 
-.relative7 {
+.relative_card {
   height: 700px;
   width: 1800px;
   background-color: #EEEEEE;
@@ -421,7 +421,7 @@
 
 }
 
-.comment21 {
+.comment_card_title {
   font-family: "Comic Sans MS" ;
   color: #993366;
   font-size: 120%;
@@ -429,7 +429,7 @@
   left:15%;
 }
 
-.comment22 {
+.comment_card_primary {
   color: #808080;
   font-size: 180%;
   font-weight: 600;
@@ -438,7 +438,7 @@
   left:15%;
 }
 
-.flex10 {
+.flex_card {
   display: flex;
   justify-content: space-between;
 }
@@ -470,23 +470,12 @@
   border-radius: 30px;
 }
 
-.card__img img {
+.card__img img{
   width: 100%;
+  border-radius: 30px 30px 0px 0px;
 }
 
-.card__content {
-}
-
-.card__img {
-  border-radius: 30px;
-}
-
-.about_img {
-  margin-top: -25%;
-}
-
-
-.comment23 {
+.card__sub-title {
   margin-bottom: 15px;
   display: inline-block;
   font-size: 130%;
@@ -496,13 +485,16 @@
   line-height:30px;
 }
 
-.comment27 {
+.card-text {
+  position: absolute;
   background-color: #993366;
   color: #FFFFFF;
   font-size:150%;
   width:75px;
   padding:15px;
   text-align: center;
+  top:-6%;
+  border-radius: 30px 0px 0px 0px;
   z-index:3;
 }
 
@@ -511,17 +503,17 @@
   text-align: center;
 }
 
-.comment24 {
+.card__content-tag_date {
   display: inline-block;
   padding:0px 50px 0px 0px;
   color:#808080;
 }
 
-.comment25 {
+.card__content-tag_company {
   display: inline-block;
   color:#808080;
 }
-.comment26 {
+.comment_card_end {
   position: absolute;
   top:85%;
   left:43%;
@@ -538,13 +530,13 @@
   border-color:#993366;
 }
 
-.relative8 {
+.relative_company {
   position: relative;
   height: 800px;
   width: 1800px;
 }
 
-.comment28 {
+.comment_company_title {
   position: absolute;
   top:10%;
   left:22%;
@@ -553,7 +545,7 @@
   font-size:120%;
 }
 
-.comment29 {
+.comment_company_primary {
   position: absolute;
   top:13%;
   left:22%;
@@ -570,7 +562,7 @@
   line-height:75px;
 }
 
-.width1 {
+.placement_left {
   background: #EEEEEE;
   color:#777777;
   font-weight: 600;
@@ -579,7 +571,7 @@
   padding:0px 0px 0px 20px;
 }
 
-.width2 {
+.placement_right {
   width:700px;
   paddint:20px;
   font-size:120%;
@@ -588,21 +580,21 @@
   font-weight: 600;
 }
 
-.relative9 {
+.relative_columm {
   position: relative;
   height: 425px;
   width: 1800px;
 }
 
-.flex11 {
+.flex_columm {
   display: flex;
 }
 
-.about_img2 {
+.about_img_recult {
   width:100%;
 }
 
-.comment30 {
+.comment_columm_left {
   position: absolute;
   top:30%;
   left:22%;
@@ -611,11 +603,11 @@
   font-weight: 600;
 }
 
-.about_img3 {
+.about_img_interview {
   width:100%;
 }
 
-.comment31 {
+.comment_columm_right {
   position: absolute;
   top:30%;
   left:67%;
@@ -624,13 +616,13 @@
   font-weight: 600;
 }
 
-.relative10 {
+.relative_inquiry {
   position: relative;
   height: 400px;
   width: 1800px;
 }
 
-.comment32 {
+.comment_inquiry {
   position: absolute;
   left:36%;
   font-size:150%;
@@ -678,14 +670,14 @@
   height: 30px;
 }
 
-.relative11 {
+.relative_end {
   position: relative;
   height: 70px;
   width: 1800px;
   background-color: #EEEEEE;
 }
 
-.comment33 {
+.comment_end {
   position: absolute;
   top:15%;
   left:40%;
